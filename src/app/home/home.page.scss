@@ -10,16 +10,18 @@
 
 #container strong {
   font-size: 20px;
-  line-height: 26px;
+  font-family: fantasy;
 }
 
 #container p {
   font-size: 16px;
-  line-height: 22px;
+  line-height: 26px;
+  margin: 10px;
+}
 
-  color: #8c8c8c;
-
-  margin: 0;
+#container li {
+  list-style-type: disclosure-closed;
+  margin: 5px;
 }
 
 #container a {
